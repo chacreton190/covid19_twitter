@@ -2,7 +2,7 @@ import json
 import time
 import sys
 
-fileN = sys.argv[1]
+fileN = r"C:\Users\chacr\OneDrive\Documents\Coding\covid19_twitter\Code\2020-08-31-dataset.tsv"
 
 fO = open(fileN[:-5]+".tsv", "w")
 with open(fileN, 'r') as f:

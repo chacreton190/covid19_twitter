@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Code/2020-08-31-datase.tsv
+Code/2020-08-31-dataset.tsv
+Code/2020-08-31_clean-dataset.tsv
+dailies/2020-08-31/2020-08-31-dataset.t.tsv
